@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+
+    <string name="link111">
+    <a href="https://lms.doroob.sa/courses/Doroob/DRB-EL-027-IGD-1-AR/2019/about">الموقع الالكتروني</a>
+</string>
+
+    <string name="link21">
+    <a href="https://lms.doroob.sa//courses/E-learning/ZDK-008x/2014/about">الموقع الالكتروني</a>
+</string>
+
+    <string name="link31">
+    <a href="https://lms.doroob.sa/courses/Doroob/DRB-HR02-EL-PD1-004-HR02-00-00-Ar-001-2nd/2017/about">الموقع الالكتروني</a>
+</string>
+
+    <string name="link41">
+    <a href=" https://lms.doroob.sa/courses/E-Learning/DRB-027-SM-01-AR/2018/about">الموقع الالكتروني</a>
+</string>
+
+    <string name="link51">
+    <a href="https://lms.doroob.sa/courses/Doroob/EL-W03-027-MW01-01-AR-01-2nd/2017/about?lang=ar ">الموقع الالكتروني</a>
+</string>
+
+    <string name="link61">
+    <a href="https://lms.doroob.sa//courses/Doroob/W.S-WRKDI002/MAR2020/about?lang=ar">الموقع الالكتروني</a>
+</string>
+
+    <string name="link71">
+    <a href=" https://lms.doroob.sa/courses/doroob/stc101/Ar_2018/about">الموقع الالكتروني</a>
+</string>
+
+
+    <string name="link81">
+    <a href="  https://lms.doroob.sa/courses/Doroob/SC-MON-P1-C2/2030/about">الموقع الالكتروني</a>
+</string>
+
+</resources>
